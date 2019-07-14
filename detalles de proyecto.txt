@@ -1,0 +1,50 @@
+
+- npm init --yes
+- npm i express express-handlebars mongoose morgan multer fs-extra errorhandler md5
+- mkdir controllers helpers models public routes server views
+- sudo service mongod start (linux)	/ mongod (win/mac) 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
